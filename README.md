@@ -4,11 +4,13 @@ In the present world, one of the major problem is credit card fraud detection. T
 
 # Classification Models
 The credit card fraud detection is a binary classification problem.The algorithms we used are
-  K-Nearest Neighbours
-  Logistic Regression
-  Support Vector Machine
-  Decision Trees
-  Random Forest
+#### Algorithms included:
+- K-Nearest Neighbors
+- Logistic Regression
+- Support Vector Machine
+- Decision Trees
+- Random Forest
+
   
 # Evaluation metrics
   ROC Curve plot
