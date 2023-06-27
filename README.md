@@ -11,13 +11,12 @@ The credit card fraud detection is a binary classification problem.The algorithm
 - Decision Trees
 - Random Forest
 
-  
-# Evaluation metrics
-  ROC Curve plot
-  Confusion Matrix
-  Precision
-  Recall
-  F1 Score
+#### Algorithms included:
+- ROC Curve plot
+- Confusion Matrix
+- Precision
+- Recall
+- F1 Score
 
 # Dataset:
 https://www.kaggle.com/datasets/kartik2112/fraud-detection
